@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/g-k-brothers-plumbing-and-hvac-peoria/sitemap.xml
